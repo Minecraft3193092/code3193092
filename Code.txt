@@ -2,3 +2,7 @@ codes
 setep : setup files in disk
 setupweb : setup files to web ftp or disk enter disk to setup to disk enter web to setup to ftp
 webtheme : setup web theme zip to web
+importweb : import web files enter import files or import web files to web importweb
+close : close one in code running
+run : run any files
+winrun : with windows run to run any files
