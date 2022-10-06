@@ -23,3 +23,9 @@ file : manage files
 webfile : mange ftp files
 printip : print ip
 ip : use ip everyone
+settime : set system time
+printtime : print current system time
+mergefile : merge files
+deletefile : delete files
+editfile : edit files
+readfile : read files
