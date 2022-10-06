@@ -1,5 +1,5 @@
 codes
-setep : setup files in disk
+setup : setup files in disk
 setupweb : setup files to web ftp or disk enter disk to setup to disk enter web to setup to ftp
 webtheme : setup web theme zip to web
 importweb : import web files enter import files or import web files to web importweb
@@ -9,8 +9,17 @@ winrun : with windows run to run any files
 runvideo : Run Videos
 rungif : Run Gifs
 name/text : show text here
-test : test app
+testapp : test app
 restart : restart one in code running
+ui : Setup Code Screen To Ui
 shop : run shop in web or app
 buy : buy items
 sell : sell items
+openimage : Run Images
+liveStreaming : Live Streaming Current Screen to OBS And More Live Streaming software
+id : use id to web and tv and more
+theme : set theme in current screen
+file : manage files
+webfile : mange ftp files
+printip : print ip
+ip : use ip everyone
